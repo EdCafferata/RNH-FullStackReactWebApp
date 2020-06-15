@@ -1,0 +1,93 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 16,
+        "COURSE": 185,
+        "MMSI": "241486001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.539587, 52.462390]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED":10,
+        "COURSE": 133,
+        "MMSI": "241486002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.560815, 52.518101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 9,
+        "COURSE": 111,
+        "MMSI": "241486003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.601011, 52.633688]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 8,
+        "COURSE": 154,
+        "MMSI": "241486004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.757435, 52.973041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 6,
+        "COURSE": 177,
+        "MMSI": "241486005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.325892, 53.085777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 4,
+        "COURSE": 132,
+        "MMSI": "241486006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.160358, 52.779509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "SPEED": 2,
+        "COURSE": 100,
+        "MMSI": "241486007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.484671, 52.610553]
+      }
+    }
+  ]
+}

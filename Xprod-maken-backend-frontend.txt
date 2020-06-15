@@ -1,0 +1,30 @@
+om de backend te starten ga in de root staan van project met een commandprompt en voer dit uit : mvn spring-boot:run
+om de forntend te starten ga naar root/frontend en geef dit commando: npm start.
+
+dan gaat er een browser open op port 3000 dit is de live reload server die ik dit jaar nodig heb om alle andere 100 React Componenten te bouwen :-)
+
+Na openen van rnhwebapp van GIT :
+
+in deze volgorden s.v.p.
+node install software:
+npm install in twee dirs, frontend en backend !
+onderdelen van leaflet / react-leaflet:
+npm install leaflet --save
+npm install react-leaflet --save
+
+urls om te testen:
+
+http://localhost:3000/
+
+http://localhost:8080/
+
+http://localhost:8080/h2/ ( user sa geen wachtwoord )
+
+http://localhost:8080/db/ (overzicht REST APIs
+
+http://localhost:8080/api/hello (voor api testen, geeft datum-time van de server)
+
+http://localhost:8080/api/aisdatas/1
+
+http://localhost:8080/api/schips/1
+
